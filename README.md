@@ -1,10 +1,10 @@
-# Hey, I'm Akshatt02 👋
+# Hey, I'm Akshat 👋
 
 ## 🚀 About Me
-I'm a pre-final year student at IIIT Kurnool.  
-I love competitive programming — solved **700+ problems** across various platforms.  
-Proficient in Full Stack Development, having built numerous full-stack projects.  
-Currently diving deep into Deep Learning and AI — always eager to learn and build cool stuff!
+I'm a pre-final year student studying Computer Science and Engineering at IIITDM Kurnool.
+I love doing competitive programming — solved **700+ problems** across various platforms :)  
+I'm proficient in Full Stack Development, having built numerous full-stack projects.
+Currently diving deep into ML and Deep Learning.
 
 ---
 
